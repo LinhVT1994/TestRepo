@@ -1,1 +1,2 @@
 Den ca con khi cung su dung duoc Git
+add: Them 1 line vao file
